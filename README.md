@@ -11,7 +11,7 @@ Primera versión del análisis del proyecto, desarrollada de manera autónoma. I
 - Regresiones lineales con moderación por género, edad, y conjunta (género y edad a la vez)
 
 2. Código ampliado ("SWB y bienestar subjetivo complejo- Andrea Corral Barbero.ipynb")
-Versión desarrollada a partir del análisi inicial("SWB y bienestar subjetivo simple - Andrea Corral Barbero.ipynb"), con asistencia de herramientas de Inteligencia Artificial para ampliar los procedimientos estadísticos e incorpora:
+Versión desarrollada a partir del análisis inicial ("SWB y bienestar subjetivo simple - Andrea Corral Barbero.ipynb") con asistencia de herramientas de Inteligencia Artificial para ampliar los procedimientos estadísticos, e incorpora:
 - Análisis CFA con ponderación y análisis de sensibilidad.
 - Regresión lineal ponderada (WLS).
 - Errores estándar agrupados por país.
