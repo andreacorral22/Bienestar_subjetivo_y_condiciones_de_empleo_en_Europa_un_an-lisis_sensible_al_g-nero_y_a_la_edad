@@ -4,13 +4,13 @@ Español
 ------------------------------------------------------------------------------------
 En este repositorio se encuentran las dos versiones utilizadas para el análisis de datos en Python de la European Social Survey (ESS), centrado en la relación entre las condiciones laborales y el bienestar subjetivo (Subjective Well-Being):
 
-1. Código básico ("SWB y bienestar subjetivo simple - Andrea Corral Barbero.ipynb")
+1. Código básico ("SWB y condiciones de empleo simple - Andrea Corral Barbero.ipynb")
 Primera versión del análisis del proyecto, desarrollada de manera autónoma. Incluye:
 - Limpieza y preparación de datos
 - Análisis factorial confirmatorio
 - Regresiones lineales con moderación por género, edad, y conjunta (género y edad a la vez)
 
-2. Código ampliado ("SWB y bienestar subjetivo complejo- Andrea Corral Barbero.ipynb")
+2. Código ampliado ("SWB y condiciones de empleo complejo- Andrea Corral Barbero.ipynb")
 Versión desarrollada a partir del análisis inicial ("SWB y bienestar subjetivo simple - Andrea Corral Barbero.ipynb") con asistencia de herramientas de Inteligencia Artificial para ampliar los procedimientos estadísticos, e incorpora:
 - Análisis CFA con ponderación y análisis de sensibilidad.
 - Regresión lineal ponderada (WLS).
@@ -31,13 +31,13 @@ English
 ------------------------------------------------------------------------------------
 This repository contains two versions of the Python code used to analyse data in Python from the European Social Survey (ESS), focusing on the relationship between employment conditions and subjective well-being.
 
-1. Basic code ("SWB y bienestar subjetivo simple - Andrea Corral Barbero.ipynb")
+1. Basic code ("SWB y condiciones de empleo simple - Andrea Corral Barbero.ipynb")
 The initial version of the project analysis, developed independently. It includes:
 - Data cleaning and preparation.
 - Confirmatory factor analysis (CFA).
 - Linear regression models examining moderation by gender, age, and both factors jointly.
 
-2. Extended code "SWB y bienestar subjetivo complejo- Andrea Corral Barbero.ipynb")
+2. Extended code "SWB y condiciones de empleo complejo- Andrea Corral Barbero.ipynb")
 An extended version developed from the initial analysis, with the assistance of artificial intelligence tools to expand the statistical procedures. It includes:
 - Weighted confirmatory factor analysis (CFA) and sensitivity analysis.
 - Weighted least squares (WLS) regression.
